@@ -12,7 +12,7 @@ This project implements a Face Recognition Attendance System using Python and Tk
 ## Installation
 1. Clone this repository to your local machine:
     ```
-    git clone <repository_url>
+    git clone https://github.com/AbdulWahab938/AI-Driven-Video-Attendance-System.git
     ```
 
 2. Install the required dependencies:
